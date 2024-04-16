@@ -7,7 +7,7 @@ public class Calculadora {
 	}
 
 	public int restar(int minuendo, int sustraendo) {
-		int resultado = minuendo + sustraendo;
+		int resultado = minuendo - sustraendo;
 		return resultado;
 	}
 
